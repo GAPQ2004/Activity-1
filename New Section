@@ -1,0 +1,15 @@
+to check the status of a local repository, use the comand git status
+
+to add invidual files or globablly, use the comand git add
+
+to add comments to te commit, use the comand git commit --amend 
+
+to upload changes to a remote repository, use the comand push git
+
+to create branch use the command git branch <branch-name>
+to browse branches use the comand git branch -a 
+to delete branch use command   git branch -d <branch_name_to_delete>
+
+to roll back a repository to a specific commit use the comand git reset --hard <old-commit-id> 
+
+
